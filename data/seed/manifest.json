@@ -1,0 +1,16 @@
+{
+  "ingredients": 104,
+  "products": 312,
+  "recipes": 30,
+  "orders": 6500,
+  "train_orders": 5200,
+  "test_orders": 1300,
+  "labels": 200,
+  "label_kinds": {
+    "synonym": 30,
+    "typo": 10,
+    "paraphrase": 69,
+    "clean": 91
+  },
+  "notes": "Prices, stock, and flyer deals are synthetic. Baskets follow the Instacart order schema."
+}

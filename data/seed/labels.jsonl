@@ -1,0 +1,200 @@
+{"query": "coriander", "ingredient_id": "cilantro", "relevant_skus": ["NONAME-CILANTRO-1", "PC-CILANTRO-2", "SELECT-CILANTRO-3"], "kind": "synonym"}
+{"query": "fresh coriander", "ingredient_id": "cilantro", "relevant_skus": ["NONAME-CILANTRO-1", "PC-CILANTRO-2", "SELECT-CILANTRO-3"], "kind": "synonym"}
+{"query": "spring onions", "ingredient_id": "green_onion", "relevant_skus": ["NONAME-GREEN-ONION-1", "PC-GREEN-ONION-2", "SELECT-GREEN-ONION-3"], "kind": "synonym"}
+{"query": "scallions", "ingredient_id": "green_onion", "relevant_skus": ["NONAME-GREEN-ONION-1", "PC-GREEN-ONION-2", "SELECT-GREEN-ONION-3"], "kind": "synonym"}
+{"query": "prawns", "ingredient_id": "shrimp", "relevant_skus": ["NONAME-SHRIMP-1", "PC-SHRIMP-2", "HARBOU-SHRIMP-3"], "kind": "synonym"}
+{"query": "raw prawns", "ingredient_id": "shrimp", "relevant_skus": ["NONAME-SHRIMP-1", "PC-SHRIMP-2", "HARBOU-SHRIMP-3"], "kind": "synonym"}
+{"query": "aubergine", "ingredient_id": "eggplant", "relevant_skus": ["NONAME-EGGPLANT-1", "PC-EGGPLANT-2", "SELECT-EGGPLANT-3"], "kind": "synonym"}
+{"query": "courgette", "ingredient_id": "zucchini", "relevant_skus": ["NONAME-ZUCCHINI-1", "PC-ZUCCHINI-2", "SELECT-ZUCCHINI-3"], "kind": "synonym"}
+{"query": "capsicum", "ingredient_id": "bell_pepper", "relevant_skus": ["NONAME-BELL-PEPPER-1", "PC-BELL-PEPPER-2", "SELECT-BELL-PEPPER-3"], "kind": "synonym"}
+{"query": "red capsicum", "ingredient_id": "bell_pepper", "relevant_skus": ["NONAME-BELL-PEPPER-1", "PC-BELL-PEPPER-2", "SELECT-BELL-PEPPER-3"], "kind": "synonym"}
+{"query": "rocket", "ingredient_id": "arugula", "relevant_skus": ["NONAME-ARUGULA-1", "PC-ARUGULA-2", "SELECT-ARUGULA-3"], "kind": "synonym"}
+{"query": "beetroot", "ingredient_id": "beets", "relevant_skus": ["NONAME-BEETS-1", "PC-BEETS-2", "SELECT-BEETS-3"], "kind": "synonym"}
+{"query": "icing sugar", "ingredient_id": "powdered_sugar", "relevant_skus": ["NONAME-POWDERED-SUGAR-1", "PC-POWDERED-SUGAR-2", "CASA-POWDERED-SUGAR-3"], "kind": "synonym"}
+{"query": "bicarbonate of soda", "ingredient_id": "baking_soda", "relevant_skus": ["NONAME-BAKING-SODA-1", "PC-BAKING-SODA-2", "CASA-BAKING-SODA-3"], "kind": "synonym"}
+{"query": "bicarb", "ingredient_id": "baking_soda", "relevant_skus": ["NONAME-BAKING-SODA-1", "PC-BAKING-SODA-2", "CASA-BAKING-SODA-3"], "kind": "synonym"}
+{"query": "plain flour", "ingredient_id": "flour", "relevant_skus": ["NONAME-FLOUR-1", "PC-FLOUR-2", "CASA-FLOUR-3"], "kind": "synonym"}
+{"query": "tinned tomatoes", "ingredient_id": "canned_tomato", "relevant_skus": ["NONAME-CANNED-TOMATO-1", "PC-CANNED-TOMATO-2", "CASA-CANNED-TOMATO-3"], "kind": "synonym"}
+{"query": "tinned chopped tomatoes", "ingredient_id": "canned_tomato", "relevant_skus": ["NONAME-CANNED-TOMATO-1", "PC-CANNED-TOMATO-2", "CASA-CANNED-TOMATO-3"], "kind": "synonym"}
+{"query": "beef mince", "ingredient_id": "ground_beef", "relevant_skus": ["NONAME-GROUND-BEEF-1", "PC-GROUND-BEEF-2", "MAPLEG-GROUND-BEEF-3"], "kind": "synonym"}
+{"query": "minced beef", "ingredient_id": "ground_beef", "relevant_skus": ["NONAME-GROUND-BEEF-1", "PC-GROUND-BEEF-2", "MAPLEG-GROUND-BEEF-3"], "kind": "synonym"}
+{"query": "rapini", "ingredient_id": "broccoli_raab", "relevant_skus": ["NONAME-BROCCOLI-RAAB-1", "PC-BROCCOLI-RAAB-2", "SELECT-BROCCOLI-RAAB-3"], "kind": "synonym"}
+{"query": "greek yoghurt", "ingredient_id": "yogurt_greek", "relevant_skus": ["NONAME-YOGURT-GREEK-1", "PC-YOGURT-GREEK-2", "RIDGED-YOGURT-GREEK-3"], "kind": "synonym"}
+{"query": "plain yoghurt", "ingredient_id": "yogurt_plain", "relevant_skus": ["NONAME-YOGURT-PLAIN-1", "PC-YOGURT-PLAIN-2", "RIDGED-YOGURT-PLAIN-3"], "kind": "synonym"}
+{"query": "yoghurt", "ingredient_id": "yogurt_plain", "relevant_skus": ["NONAME-YOGURT-PLAIN-1", "PC-YOGURT-PLAIN-2", "RIDGED-YOGURT-PLAIN-3"], "kind": "synonym"}
+{"query": "chick peas", "ingredient_id": "chickpeas", "relevant_skus": ["NONAME-CHICKPEAS-1", "PC-CHICKPEAS-2", "CASA-CHICKPEAS-3"], "kind": "synonym"}
+{"query": "garbanzo beans", "ingredient_id": "chickpeas", "relevant_skus": ["NONAME-CHICKPEAS-1", "PC-CHICKPEAS-2", "CASA-CHICKPEAS-3"], "kind": "synonym"}
+{"query": "rapeseed oil", "ingredient_id": "canola_oil", "relevant_skus": ["NONAME-CANOLA-OIL-1", "PC-CANOLA-OIL-2", "CASA-CANOLA-OIL-3"], "kind": "synonym"}
+{"query": "vegetable stock", "ingredient_id": "stock_veg", "relevant_skus": ["NONAME-STOCK-VEG-1", "PC-STOCK-VEG-2", "CASA-STOCK-VEG-3"], "kind": "synonym"}
+{"query": "chicken stock", "ingredient_id": "stock_chicken", "relevant_skus": ["NONAME-STOCK-CHICKEN-1", "PC-STOCK-CHICKEN-2", "CASA-STOCK-CHICKEN-3"], "kind": "synonym"}
+{"query": "sriracha", "ingredient_id": "hot_sauce", "relevant_skus": ["NONAME-HOT-SAUCE-1", "PC-HOT-SAUCE-2", "CASA-HOT-SAUCE-3"], "kind": "synonym"}
+{"query": "brocoli", "ingredient_id": "broccoli", "relevant_skus": ["NONAME-BROCCOLI-1", "PC-BROCCOLI-2", "SELECT-BROCCOLI-3"], "kind": "typo"}
+{"query": "brocolli", "ingredient_id": "broccoli", "relevant_skus": ["NONAME-BROCCOLI-1", "PC-BROCCOLI-2", "SELECT-BROCCOLI-3"], "kind": "typo"}
+{"query": "chiken breast", "ingredient_id": "chicken_breast", "relevant_skus": ["NONAME-CHICKEN-BREAST-1", "PC-CHICKEN-BREAST-2", "MAPLEG-CHICKEN-BREAST-3"], "kind": "typo"}
+{"query": "chicken thghs", "ingredient_id": "chicken_thigh", "relevant_skus": ["NONAME-CHICKEN-THIGH-1", "PC-CHICKEN-THIGH-2", "MAPLEG-CHICKEN-THIGH-3"], "kind": "typo"}
+{"query": "chkn thyghs", "ingredient_id": "chicken_thigh", "relevant_skus": ["NONAME-CHICKEN-THIGH-1", "PC-CHICKEN-THIGH-2", "MAPLEG-CHICKEN-THIGH-3"], "kind": "typo"}
+{"query": "zuchini", "ingredient_id": "zucchini", "relevant_skus": ["NONAME-ZUCCHINI-1", "PC-ZUCCHINI-2", "SELECT-ZUCCHINI-3"], "kind": "typo"}
+{"query": "avacado", "ingredient_id": "avocado", "relevant_skus": ["NONAME-AVOCADO-1", "PC-AVOCADO-2", "SELECT-AVOCADO-3"], "kind": "typo"}
+{"query": "tumeric", "ingredient_id": "turmeric", "relevant_skus": ["NONAME-TURMERIC-1", "PC-TURMERIC-2", "CASA-TURMERIC-3"], "kind": "typo"}
+{"query": "cilanto", "ingredient_id": "cilantro", "relevant_skus": ["NONAME-CILANTRO-1", "PC-CILANTRO-2", "SELECT-CILANTRO-3"], "kind": "typo"}
+{"query": "siracha", "ingredient_id": "hot_sauce", "relevant_skus": ["NONAME-HOT-SAUCE-1", "PC-HOT-SAUCE-2", "CASA-HOT-SAUCE-3"], "kind": "typo"}
+{"query": "boneless skinless chicken breast", "ingredient_id": "chicken_breast", "relevant_skus": ["NONAME-CHICKEN-BREAST-1", "PC-CHICKEN-BREAST-2", "MAPLEG-CHICKEN-BREAST-3"], "kind": "paraphrase"}
+{"query": "bone-in chicken thighs", "ingredient_id": "chicken_thigh", "relevant_skus": ["NONAME-CHICKEN-THIGH-1", "PC-CHICKEN-THIGH-2", "MAPLEG-CHICKEN-THIGH-3"], "kind": "paraphrase"}
+{"query": "baby spinach", "ingredient_id": "spinach", "relevant_skus": ["NONAME-SPINACH-1", "PC-SPINACH-2", "SELECT-SPINACH-3"], "kind": "paraphrase"}
+{"query": "firm tofu", "ingredient_id": "tofu", "relevant_skus": ["NONAME-TOFU-1", "PC-TOFU-2", "SELECT-TOFU-3"], "kind": "paraphrase"}
+{"query": "long grain rice", "ingredient_id": "rice", "relevant_skus": ["NONAME-RICE-1", "PC-RICE-2", "CASA-RICE-3"], "kind": "paraphrase"}
+{"query": "canned tuna", "ingredient_id": "tuna", "relevant_skus": ["NONAME-TUNA-1", "PC-TUNA-2", "CASA-TUNA-3"], "kind": "paraphrase"}
+{"query": "2% milk", "ingredient_id": "milk_2", "relevant_skus": ["NONAME-MILK-2-1", "PC-MILK-2-2", "RIDGED-MILK-2-3"], "kind": "paraphrase"}
+{"query": "skim milk", "ingredient_id": "milk_skim", "relevant_skus": ["NONAME-MILK-SKIM-1", "PC-MILK-SKIM-2", "RIDGED-MILK-SKIM-3"], "kind": "paraphrase"}
+{"query": "rolled oats", "ingredient_id": "oats", "relevant_skus": ["NONAME-OATS-1", "PC-OATS-2", "CASA-OATS-3"], "kind": "paraphrase"}
+{"query": "sweet potatoes", "ingredient_id": "sweet_potato", "relevant_skus": ["NONAME-SWEET-POTATO-1", "PC-SWEET-POTATO-2", "SELECT-SWEET-POTATO-3"], "kind": "paraphrase"}
+{"query": "green onions", "ingredient_id": "green_onion", "relevant_skus": ["NONAME-GREEN-ONION-1", "PC-GREEN-ONION-2", "SELECT-GREEN-ONION-3"], "kind": "paraphrase"}
+{"query": "bell peppers", "ingredient_id": "bell_pepper", "relevant_skus": ["NONAME-BELL-PEPPER-1", "PC-BELL-PEPPER-2", "SELECT-BELL-PEPPER-3"], "kind": "paraphrase"}
+{"query": "ground turkey", "ingredient_id": "turkey_ground", "relevant_skus": ["NONAME-TURKEY-GROUND-1", "PC-TURKEY-GROUND-2", "MAPLEG-TURKEY-GROUND-3"], "kind": "paraphrase"}
+{"query": "dijon mustard", "ingredient_id": "dijon", "relevant_skus": ["NONAME-DIJON-1", "PC-DIJON-2", "CASA-DIJON-3"], "kind": "paraphrase"}
+{"query": "maple syrup", "ingredient_id": "maple_syrup", "relevant_skus": ["NONAME-MAPLE-SYRUP-1", "PC-MAPLE-SYRUP-2", "CASA-MAPLE-SYRUP-3"], "kind": "paraphrase"}
+{"query": "peanut butter", "ingredient_id": "peanut_butter", "relevant_skus": ["NONAME-PEANUT-BUTTER-1", "PC-PEANUT-BUTTER-2", "CASA-PEANUT-BUTTER-3"], "kind": "paraphrase"}
+{"query": "olive oil", "ingredient_id": "olive_oil", "relevant_skus": ["NONAME-OLIVE-OIL-1", "PC-OLIVE-OIL-2", "CASA-OLIVE-OIL-3"], "kind": "paraphrase"}
+{"query": "black beans canned", "ingredient_id": "black_beans", "relevant_skus": ["NONAME-BLACK-BEANS-1", "PC-BLACK-BEANS-2", "CASA-BLACK-BEANS-3"], "kind": "paraphrase"}
+{"query": "cremini mushrooms", "ingredient_id": "mushroom", "relevant_skus": ["NONAME-MUSHROOM-1", "PC-MUSHROOM-2", "SELECT-MUSHROOM-3"], "kind": "paraphrase"}
+{"query": "romaine lettuce", "ingredient_id": "lettuce", "relevant_skus": ["NONAME-LETTUCE-1", "PC-LETTUCE-2", "SELECT-LETTUCE-3"], "kind": "paraphrase"}
+{"query": "onion", "ingredient_id": "onion", "relevant_skus": ["NONAME-ONION-1", "PC-ONION-2", "SELECT-ONION-3"], "kind": "clean"}
+{"query": "green onion", "ingredient_id": "green_onion", "relevant_skus": ["NONAME-GREEN-ONION-1", "PC-GREEN-ONION-2", "SELECT-GREEN-ONION-3"], "kind": "clean"}
+{"query": "garlic", "ingredient_id": "garlic", "relevant_skus": ["NONAME-GARLIC-1", "PC-GARLIC-2", "SELECT-GARLIC-3"], "kind": "clean"}
+{"query": "ginger", "ingredient_id": "ginger", "relevant_skus": ["NONAME-GINGER-1", "PC-GINGER-2", "SELECT-GINGER-3"], "kind": "clean"}
+{"query": "broccoli", "ingredient_id": "broccoli", "relevant_skus": ["NONAME-BROCCOLI-1", "PC-BROCCOLI-2", "SELECT-BROCCOLI-3"], "kind": "clean"}
+{"query": "broccoli raab", "ingredient_id": "broccoli_raab", "relevant_skus": ["NONAME-BROCCOLI-RAAB-1", "PC-BROCCOLI-RAAB-2", "SELECT-BROCCOLI-RAAB-3"], "kind": "clean"}
+{"query": "spinach", "ingredient_id": "spinach", "relevant_skus": ["NONAME-SPINACH-1", "PC-SPINACH-2", "SELECT-SPINACH-3"], "kind": "clean"}
+{"query": "kale", "ingredient_id": "kale", "relevant_skus": ["NONAME-KALE-1", "PC-KALE-2", "SELECT-KALE-3"], "kind": "clean"}
+{"query": "arugula", "ingredient_id": "arugula", "relevant_skus": ["NONAME-ARUGULA-1", "PC-ARUGULA-2", "SELECT-ARUGULA-3"], "kind": "clean"}
+{"query": "tomato", "ingredient_id": "tomato", "relevant_skus": ["NONAME-TOMATO-1", "PC-TOMATO-2", "SELECT-TOMATO-3"], "kind": "clean"}
+{"query": "bell pepper", "ingredient_id": "bell_pepper", "relevant_skus": ["NONAME-BELL-PEPPER-1", "PC-BELL-PEPPER-2", "SELECT-BELL-PEPPER-3"], "kind": "clean"}
+{"query": "zucchini", "ingredient_id": "zucchini", "relevant_skus": ["NONAME-ZUCCHINI-1", "PC-ZUCCHINI-2", "SELECT-ZUCCHINI-3"], "kind": "clean"}
+{"query": "eggplant", "ingredient_id": "eggplant", "relevant_skus": ["NONAME-EGGPLANT-1", "PC-EGGPLANT-2", "SELECT-EGGPLANT-3"], "kind": "clean"}
+{"query": "carrot", "ingredient_id": "carrot", "relevant_skus": ["NONAME-CARROT-1", "PC-CARROT-2", "SELECT-CARROT-3"], "kind": "clean"}
+{"query": "potato", "ingredient_id": "potato", "relevant_skus": ["NONAME-POTATO-1", "PC-POTATO-2", "SELECT-POTATO-3"], "kind": "clean"}
+{"query": "sweet potato", "ingredient_id": "sweet_potato", "relevant_skus": ["NONAME-SWEET-POTATO-1", "PC-SWEET-POTATO-2", "SELECT-SWEET-POTATO-3"], "kind": "clean"}
+{"query": "beets", "ingredient_id": "beets", "relevant_skus": ["NONAME-BEETS-1", "PC-BEETS-2", "SELECT-BEETS-3"], "kind": "clean"}
+{"query": "avocado", "ingredient_id": "avocado", "relevant_skus": ["NONAME-AVOCADO-1", "PC-AVOCADO-2", "SELECT-AVOCADO-3"], "kind": "clean"}
+{"query": "lemon", "ingredient_id": "lemon", "relevant_skus": ["NONAME-LEMON-1", "PC-LEMON-2", "SELECT-LEMON-3"], "kind": "clean"}
+{"query": "lime", "ingredient_id": "lime", "relevant_skus": ["NONAME-LIME-1", "PC-LIME-2", "SELECT-LIME-3"], "kind": "clean"}
+{"query": "cilantro", "ingredient_id": "cilantro", "relevant_skus": ["NONAME-CILANTRO-1", "PC-CILANTRO-2", "SELECT-CILANTRO-3"], "kind": "clean"}
+{"query": "parsley", "ingredient_id": "parsley", "relevant_skus": ["NONAME-PARSLEY-1", "PC-PARSLEY-2", "SELECT-PARSLEY-3"], "kind": "clean"}
+{"query": "basil", "ingredient_id": "basil", "relevant_skus": ["NONAME-BASIL-1", "PC-BASIL-2", "SELECT-BASIL-3"], "kind": "clean"}
+{"query": "cucumber", "ingredient_id": "cucumber", "relevant_skus": ["NONAME-CUCUMBER-1", "PC-CUCUMBER-2", "SELECT-CUCUMBER-3"], "kind": "clean"}
+{"query": "green cabbage", "ingredient_id": "cabbage", "relevant_skus": ["NONAME-CABBAGE-1", "PC-CABBAGE-2", "SELECT-CABBAGE-3"], "kind": "clean"}
+{"query": "celery", "ingredient_id": "celery", "relevant_skus": ["NONAME-CELERY-1", "PC-CELERY-2", "SELECT-CELERY-3"], "kind": "clean"}
+{"query": "corn", "ingredient_id": "corn", "relevant_skus": ["NONAME-CORN-1", "PC-CORN-2", "SELECT-CORN-3"], "kind": "clean"}
+{"query": "banana", "ingredient_id": "banana", "relevant_skus": ["NONAME-BANANA-1", "PC-BANANA-2", "SELECT-BANANA-3"], "kind": "clean"}
+{"query": "apple", "ingredient_id": "apple", "relevant_skus": ["NONAME-APPLE-1", "PC-APPLE-2", "SELECT-APPLE-3"], "kind": "clean"}
+{"query": "green peas", "ingredient_id": "peas", "relevant_skus": ["NONAME-PEAS-1", "PC-PEAS-2", "NORTHE-PEAS-3"], "kind": "clean"}
+{"query": "chicken breast", "ingredient_id": "chicken_breast", "relevant_skus": ["NONAME-CHICKEN-BREAST-1", "PC-CHICKEN-BREAST-2", "MAPLEG-CHICKEN-BREAST-3"], "kind": "clean"}
+{"query": "chicken thighs", "ingredient_id": "chicken_thigh", "relevant_skus": ["NONAME-CHICKEN-THIGH-1", "PC-CHICKEN-THIGH-2", "MAPLEG-CHICKEN-THIGH-3"], "kind": "clean"}
+{"query": "ground chicken", "ingredient_id": "chicken_ground", "relevant_skus": ["NONAME-CHICKEN-GROUND-1", "PC-CHICKEN-GROUND-2", "MAPLEG-CHICKEN-GROUND-3"], "kind": "clean"}
+{"query": "turkey breast", "ingredient_id": "turkey_breast", "relevant_skus": ["NONAME-TURKEY-BREAST-1", "PC-TURKEY-BREAST-2", "MAPLEG-TURKEY-BREAST-3"], "kind": "clean"}
+{"query": "ground beef", "ingredient_id": "ground_beef", "relevant_skus": ["NONAME-GROUND-BEEF-1", "PC-GROUND-BEEF-2", "MAPLEG-GROUND-BEEF-3"], "kind": "clean"}
+{"query": "stewing beef", "ingredient_id": "stewing_beef", "relevant_skus": ["NONAME-STEWING-BEEF-1", "PC-STEWING-BEEF-2", "MAPLEG-STEWING-BEEF-3"], "kind": "clean"}
+{"query": "beef sirloin", "ingredient_id": "sirloin", "relevant_skus": ["NONAME-SIRLOIN-1", "PC-SIRLOIN-2", "MAPLEG-SIRLOIN-3"], "kind": "clean"}
+{"query": "pork chops", "ingredient_id": "pork_chop", "relevant_skus": ["NONAME-PORK-CHOP-1", "PC-PORK-CHOP-2", "MAPLEG-PORK-CHOP-3"], "kind": "clean"}
+{"query": "bacon", "ingredient_id": "bacon", "relevant_skus": ["NONAME-BACON-1", "PC-BACON-2", "MAPLEG-BACON-3"], "kind": "clean"}
+{"query": "ground pork", "ingredient_id": "ground_pork", "relevant_skus": ["NONAME-GROUND-PORK-1", "PC-GROUND-PORK-2", "MAPLEG-GROUND-PORK-3"], "kind": "clean"}
+{"query": "italian pork sausage", "ingredient_id": "italian_sausage", "relevant_skus": ["NONAME-ITALIAN-SAUSAGE-1", "PC-ITALIAN-SAUSAGE-2", "MAPLEG-ITALIAN-SAUSAGE-3"], "kind": "clean"}
+{"query": "chicken nuggets", "ingredient_id": "chicken_nuggets", "relevant_skus": ["NONAME-CHICKEN-NUGGETS-1", "PC-CHICKEN-NUGGETS-2", "NORTHE-CHICKEN-NUGGETS-3"], "kind": "clean"}
+{"query": "chicken noodle soup", "ingredient_id": "chicken_soup", "relevant_skus": ["NONAME-CHICKEN-SOUP-1", "PC-CHICKEN-SOUP-2", "CASA-CHICKEN-SOUP-3"], "kind": "clean"}
+{"query": "atlantic salmon", "ingredient_id": "salmon", "relevant_skus": ["NONAME-SALMON-1", "PC-SALMON-2", "HARBOU-SALMON-3"], "kind": "clean"}
+{"query": "cod fillets", "ingredient_id": "cod", "relevant_skus": ["NONAME-COD-1", "PC-COD-2", "HARBOU-COD-3"], "kind": "clean"}
+{"query": "shrimp", "ingredient_id": "shrimp", "relevant_skus": ["NONAME-SHRIMP-1", "PC-SHRIMP-2", "HARBOU-SHRIMP-3"], "kind": "clean"}
+{"query": "oat milk", "ingredient_id": "oat_milk", "relevant_skus": ["NONAME-OAT-MILK-1", "PC-OAT-MILK-2", "RIDGED-OAT-MILK-3"], "kind": "clean"}
+{"query": "greek yogurt", "ingredient_id": "yogurt_greek", "relevant_skus": ["NONAME-YOGURT-GREEK-1", "PC-YOGURT-GREEK-2", "RIDGED-YOGURT-GREEK-3"], "kind": "clean"}
+{"query": "plain yogurt", "ingredient_id": "yogurt_plain", "relevant_skus": ["NONAME-YOGURT-PLAIN-1", "PC-YOGURT-PLAIN-2", "RIDGED-YOGURT-PLAIN-3"], "kind": "clean"}
+{"query": "cheddar cheese", "ingredient_id": "cheddar", "relevant_skus": ["NONAME-CHEDDAR-1", "PC-CHEDDAR-2", "RIDGED-CHEDDAR-3"], "kind": "clean"}
+{"query": "mozzarella", "ingredient_id": "mozzarella", "relevant_skus": ["NONAME-MOZZARELLA-1", "PC-MOZZARELLA-2", "RIDGED-MOZZARELLA-3"], "kind": "clean"}
+{"query": "feta cheese", "ingredient_id": "feta", "relevant_skus": ["NONAME-FETA-1", "PC-FETA-2", "RIDGED-FETA-3"], "kind": "clean"}
+{"query": "parmesan", "ingredient_id": "parmesan", "relevant_skus": ["NONAME-PARMESAN-1", "PC-PARMESAN-2", "RIDGED-PARMESAN-3"], "kind": "clean"}
+{"query": "butter", "ingredient_id": "butter", "relevant_skus": ["NONAME-BUTTER-1", "PC-BUTTER-2", "RIDGED-BUTTER-3"], "kind": "clean"}
+{"query": "eggs", "ingredient_id": "eggs", "relevant_skus": ["NONAME-EGGS-1", "PC-EGGS-2", "RIDGED-EGGS-3"], "kind": "clean"}
+{"query": "quinoa", "ingredient_id": "quinoa", "relevant_skus": ["NONAME-QUINOA-1", "PC-QUINOA-2", "CASA-QUINOA-3"], "kind": "clean"}
+{"query": "spaghetti", "ingredient_id": "pasta", "relevant_skus": ["NONAME-PASTA-1", "PC-PASTA-2", "CASA-PASTA-3"], "kind": "clean"}
+{"query": "white bread", "ingredient_id": "bread", "relevant_skus": ["NONAME-BREAD-1", "PC-BREAD-2", "MILLBA-BREAD-3"], "kind": "clean"}
+{"query": "flour tortillas", "ingredient_id": "tortilla", "relevant_skus": ["NONAME-TORTILLA-1", "PC-TORTILLA-2", "MILLBA-TORTILLA-3"], "kind": "clean"}
+{"query": "all-purpose flour", "ingredient_id": "flour", "relevant_skus": ["NONAME-FLOUR-1", "PC-FLOUR-2", "CASA-FLOUR-3"], "kind": "clean"}
+{"query": "canned tomatoes", "ingredient_id": "canned_tomato", "relevant_skus": ["NONAME-CANNED-TOMATO-1", "PC-CANNED-TOMATO-2", "CASA-CANNED-TOMATO-3"], "kind": "clean"}
+{"query": "black beans", "ingredient_id": "black_beans", "relevant_skus": ["NONAME-BLACK-BEANS-1", "PC-BLACK-BEANS-2", "CASA-BLACK-BEANS-3"], "kind": "clean"}
+{"query": "chickpeas", "ingredient_id": "chickpeas", "relevant_skus": ["NONAME-CHICKPEAS-1", "PC-CHICKPEAS-2", "CASA-CHICKPEAS-3"], "kind": "clean"}
+{"query": "lentils", "ingredient_id": "lentils", "relevant_skus": ["NONAME-LENTILS-1", "PC-LENTILS-2", "CASA-LENTILS-3"], "kind": "clean"}
+{"query": "kidney beans", "ingredient_id": "kidney_beans", "relevant_skus": ["NONAME-KIDNEY-BEANS-1", "PC-KIDNEY-BEANS-2", "CASA-KIDNEY-BEANS-3"], "kind": "clean"}
+{"query": "coconut milk", "ingredient_id": "coconut_milk", "relevant_skus": ["NONAME-COCONUT-MILK-1", "PC-COCONUT-MILK-2", "CASA-COCONUT-MILK-3"], "kind": "clean"}
+{"query": "soy sauce", "ingredient_id": "soy_sauce", "relevant_skus": ["NONAME-SOY-SAUCE-1", "PC-SOY-SAUCE-2", "CASA-SOY-SAUCE-3"], "kind": "clean"}
+{"query": "tamari", "ingredient_id": "tamari", "relevant_skus": ["NONAME-TAMARI-1", "PC-TAMARI-2", "CASA-TAMARI-3"], "kind": "clean"}
+{"query": "miso paste", "ingredient_id": "miso", "relevant_skus": ["NONAME-MISO-1", "PC-MISO-2", "CASA-MISO-3"], "kind": "clean"}
+{"query": "canola oil", "ingredient_id": "canola_oil", "relevant_skus": ["NONAME-CANOLA-OIL-1", "PC-CANOLA-OIL-2", "CASA-CANOLA-OIL-3"], "kind": "clean"}
+{"query": "sesame oil", "ingredient_id": "sesame_oil", "relevant_skus": ["NONAME-SESAME-OIL-1", "PC-SESAME-OIL-2", "CASA-SESAME-OIL-3"], "kind": "clean"}
+{"query": "white vinegar", "ingredient_id": "vinegar", "relevant_skus": ["NONAME-VINEGAR-1", "PC-VINEGAR-2", "CASA-VINEGAR-3"], "kind": "clean"}
+{"query": "honey", "ingredient_id": "honey", "relevant_skus": ["NONAME-HONEY-1", "PC-HONEY-2", "CASA-HONEY-3"], "kind": "clean"}
+{"query": "granulated sugar", "ingredient_id": "sugar", "relevant_skus": ["NONAME-SUGAR-1", "PC-SUGAR-2", "CASA-SUGAR-3"], "kind": "clean"}
+{"query": "powdered sugar", "ingredient_id": "powdered_sugar", "relevant_skus": ["NONAME-POWDERED-SUGAR-1", "PC-POWDERED-SUGAR-2", "CASA-POWDERED-SUGAR-3"], "kind": "clean"}
+{"query": "baking soda", "ingredient_id": "baking_soda", "relevant_skus": ["NONAME-BAKING-SODA-1", "PC-BAKING-SODA-2", "CASA-BAKING-SODA-3"], "kind": "clean"}
+{"query": "salt", "ingredient_id": "salt", "relevant_skus": ["NONAME-SALT-1", "PC-SALT-2", "CASA-SALT-3"], "kind": "clean"}
+{"query": "black pepper", "ingredient_id": "black_pepper", "relevant_skus": ["NONAME-BLACK-PEPPER-1", "PC-BLACK-PEPPER-2", "CASA-BLACK-PEPPER-3"], "kind": "clean"}
+{"query": "chili flakes", "ingredient_id": "chili_flakes", "relevant_skus": ["NONAME-CHILI-FLAKES-1", "PC-CHILI-FLAKES-2", "CASA-CHILI-FLAKES-3"], "kind": "clean"}
+{"query": "cumin", "ingredient_id": "cumin", "relevant_skus": ["NONAME-CUMIN-1", "PC-CUMIN-2", "CASA-CUMIN-3"], "kind": "clean"}
+{"query": "paprika", "ingredient_id": "paprika", "relevant_skus": ["NONAME-PAPRIKA-1", "PC-PAPRIKA-2", "CASA-PAPRIKA-3"], "kind": "clean"}
+{"query": "curry powder", "ingredient_id": "curry_powder", "relevant_skus": ["NONAME-CURRY-POWDER-1", "PC-CURRY-POWDER-2", "CASA-CURRY-POWDER-3"], "kind": "clean"}
+{"query": "turmeric", "ingredient_id": "turmeric", "relevant_skus": ["NONAME-TURMERIC-1", "PC-TURMERIC-2", "CASA-TURMERIC-3"], "kind": "clean"}
+{"query": "chicken broth", "ingredient_id": "stock_chicken", "relevant_skus": ["NONAME-STOCK-CHICKEN-1", "PC-STOCK-CHICKEN-2", "CASA-STOCK-CHICKEN-3"], "kind": "clean"}
+{"query": "vegetable broth", "ingredient_id": "stock_veg", "relevant_skus": ["NONAME-STOCK-VEG-1", "PC-STOCK-VEG-2", "CASA-STOCK-VEG-3"], "kind": "clean"}
+{"query": "salsa", "ingredient_id": "salsa", "relevant_skus": ["NONAME-SALSA-1", "PC-SALSA-2", "CASA-SALSA-3"], "kind": "clean"}
+{"query": "mayonnaise", "ingredient_id": "mayonnaise", "relevant_skus": ["NONAME-MAYONNAISE-1", "PC-MAYONNAISE-2", "CASA-MAYONNAISE-3"], "kind": "clean"}
+{"query": "hot sauce", "ingredient_id": "hot_sauce", "relevant_skus": ["NONAME-HOT-SAUCE-1", "PC-HOT-SAUCE-2", "CASA-HOT-SAUCE-3"], "kind": "clean"}
+{"query": "breadcrumbs", "ingredient_id": "breadcrumbs", "relevant_skus": ["NONAME-BREADCRUMBS-1", "PC-BREADCRUMBS-2", "CASA-BREADCRUMBS-3"], "kind": "clean"}
+{"query": "potato chips", "ingredient_id": "chips", "relevant_skus": ["NONAME-CHIPS-1", "PC-CHIPS-2", "CRUNCH-CHIPS-3"], "kind": "clean"}
+{"query": "cola", "ingredient_id": "cola", "relevant_skus": ["NONAME-COLA-1", "PC-COLA-2", "FIZZ-COLA-3"], "kind": "clean"}
+{"query": "onion family pack", "ingredient_id": "onion", "relevant_skus": ["NONAME-ONION-1", "PC-ONION-2", "SELECT-ONION-3"], "kind": "paraphrase"}
+{"query": "green onion family pack", "ingredient_id": "green_onion", "relevant_skus": ["NONAME-GREEN-ONION-1", "PC-GREEN-ONION-2", "SELECT-GREEN-ONION-3"], "kind": "paraphrase"}
+{"query": "garlic family pack", "ingredient_id": "garlic", "relevant_skus": ["NONAME-GARLIC-1", "PC-GARLIC-2", "SELECT-GARLIC-3"], "kind": "paraphrase"}
+{"query": "ginger family pack", "ingredient_id": "ginger", "relevant_skus": ["NONAME-GINGER-1", "PC-GINGER-2", "SELECT-GINGER-3"], "kind": "paraphrase"}
+{"query": "broccoli family pack", "ingredient_id": "broccoli", "relevant_skus": ["NONAME-BROCCOLI-1", "PC-BROCCOLI-2", "SELECT-BROCCOLI-3"], "kind": "paraphrase"}
+{"query": "broccoli raab family pack", "ingredient_id": "broccoli_raab", "relevant_skus": ["NONAME-BROCCOLI-RAAB-1", "PC-BROCCOLI-RAAB-2", "SELECT-BROCCOLI-RAAB-3"], "kind": "paraphrase"}
+{"query": "spinach family pack", "ingredient_id": "spinach", "relevant_skus": ["NONAME-SPINACH-1", "PC-SPINACH-2", "SELECT-SPINACH-3"], "kind": "paraphrase"}
+{"query": "kale family pack", "ingredient_id": "kale", "relevant_skus": ["NONAME-KALE-1", "PC-KALE-2", "SELECT-KALE-3"], "kind": "paraphrase"}
+{"query": "romaine lettuce family pack", "ingredient_id": "lettuce", "relevant_skus": ["NONAME-LETTUCE-1", "PC-LETTUCE-2", "SELECT-LETTUCE-3"], "kind": "paraphrase"}
+{"query": "arugula family pack", "ingredient_id": "arugula", "relevant_skus": ["NONAME-ARUGULA-1", "PC-ARUGULA-2", "SELECT-ARUGULA-3"], "kind": "paraphrase"}
+{"query": "tomato family pack", "ingredient_id": "tomato", "relevant_skus": ["NONAME-TOMATO-1", "PC-TOMATO-2", "SELECT-TOMATO-3"], "kind": "paraphrase"}
+{"query": "bell pepper family pack", "ingredient_id": "bell_pepper", "relevant_skus": ["NONAME-BELL-PEPPER-1", "PC-BELL-PEPPER-2", "SELECT-BELL-PEPPER-3"], "kind": "paraphrase"}
+{"query": "zucchini family pack", "ingredient_id": "zucchini", "relevant_skus": ["NONAME-ZUCCHINI-1", "PC-ZUCCHINI-2", "SELECT-ZUCCHINI-3"], "kind": "paraphrase"}
+{"query": "eggplant family pack", "ingredient_id": "eggplant", "relevant_skus": ["NONAME-EGGPLANT-1", "PC-EGGPLANT-2", "SELECT-EGGPLANT-3"], "kind": "paraphrase"}
+{"query": "carrot family pack", "ingredient_id": "carrot", "relevant_skus": ["NONAME-CARROT-1", "PC-CARROT-2", "SELECT-CARROT-3"], "kind": "paraphrase"}
+{"query": "potato family pack", "ingredient_id": "potato", "relevant_skus": ["NONAME-POTATO-1", "PC-POTATO-2", "SELECT-POTATO-3"], "kind": "paraphrase"}
+{"query": "sweet potato family pack", "ingredient_id": "sweet_potato", "relevant_skus": ["NONAME-SWEET-POTATO-1", "PC-SWEET-POTATO-2", "SELECT-SWEET-POTATO-3"], "kind": "paraphrase"}
+{"query": "beets family pack", "ingredient_id": "beets", "relevant_skus": ["NONAME-BEETS-1", "PC-BEETS-2", "SELECT-BEETS-3"], "kind": "paraphrase"}
+{"query": "cremini mushrooms family pack", "ingredient_id": "mushroom", "relevant_skus": ["NONAME-MUSHROOM-1", "PC-MUSHROOM-2", "SELECT-MUSHROOM-3"], "kind": "paraphrase"}
+{"query": "avocado family pack", "ingredient_id": "avocado", "relevant_skus": ["NONAME-AVOCADO-1", "PC-AVOCADO-2", "SELECT-AVOCADO-3"], "kind": "paraphrase"}
+{"query": "lemon family pack", "ingredient_id": "lemon", "relevant_skus": ["NONAME-LEMON-1", "PC-LEMON-2", "SELECT-LEMON-3"], "kind": "paraphrase"}
+{"query": "lime family pack", "ingredient_id": "lime", "relevant_skus": ["NONAME-LIME-1", "PC-LIME-2", "SELECT-LIME-3"], "kind": "paraphrase"}
+{"query": "cilantro family pack", "ingredient_id": "cilantro", "relevant_skus": ["NONAME-CILANTRO-1", "PC-CILANTRO-2", "SELECT-CILANTRO-3"], "kind": "paraphrase"}
+{"query": "parsley family pack", "ingredient_id": "parsley", "relevant_skus": ["NONAME-PARSLEY-1", "PC-PARSLEY-2", "SELECT-PARSLEY-3"], "kind": "paraphrase"}
+{"query": "basil family pack", "ingredient_id": "basil", "relevant_skus": ["NONAME-BASIL-1", "PC-BASIL-2", "SELECT-BASIL-3"], "kind": "paraphrase"}
+{"query": "cucumber family pack", "ingredient_id": "cucumber", "relevant_skus": ["NONAME-CUCUMBER-1", "PC-CUCUMBER-2", "SELECT-CUCUMBER-3"], "kind": "paraphrase"}
+{"query": "green cabbage family pack", "ingredient_id": "cabbage", "relevant_skus": ["NONAME-CABBAGE-1", "PC-CABBAGE-2", "SELECT-CABBAGE-3"], "kind": "paraphrase"}
+{"query": "celery family pack", "ingredient_id": "celery", "relevant_skus": ["NONAME-CELERY-1", "PC-CELERY-2", "SELECT-CELERY-3"], "kind": "paraphrase"}
+{"query": "corn family pack", "ingredient_id": "corn", "relevant_skus": ["NONAME-CORN-1", "PC-CORN-2", "SELECT-CORN-3"], "kind": "paraphrase"}
+{"query": "banana family pack", "ingredient_id": "banana", "relevant_skus": ["NONAME-BANANA-1", "PC-BANANA-2", "SELECT-BANANA-3"], "kind": "paraphrase"}
+{"query": "apple family pack", "ingredient_id": "apple", "relevant_skus": ["NONAME-APPLE-1", "PC-APPLE-2", "SELECT-APPLE-3"], "kind": "paraphrase"}
+{"query": "green peas family pack", "ingredient_id": "peas", "relevant_skus": ["NONAME-PEAS-1", "PC-PEAS-2", "NORTHE-PEAS-3"], "kind": "paraphrase"}
+{"query": "chicken breast family pack", "ingredient_id": "chicken_breast", "relevant_skus": ["NONAME-CHICKEN-BREAST-1", "PC-CHICKEN-BREAST-2", "MAPLEG-CHICKEN-BREAST-3"], "kind": "paraphrase"}
+{"query": "chicken thighs family pack", "ingredient_id": "chicken_thigh", "relevant_skus": ["NONAME-CHICKEN-THIGH-1", "PC-CHICKEN-THIGH-2", "MAPLEG-CHICKEN-THIGH-3"], "kind": "paraphrase"}
+{"query": "ground chicken family pack", "ingredient_id": "chicken_ground", "relevant_skus": ["NONAME-CHICKEN-GROUND-1", "PC-CHICKEN-GROUND-2", "MAPLEG-CHICKEN-GROUND-3"], "kind": "paraphrase"}
+{"query": "turkey breast family pack", "ingredient_id": "turkey_breast", "relevant_skus": ["NONAME-TURKEY-BREAST-1", "PC-TURKEY-BREAST-2", "MAPLEG-TURKEY-BREAST-3"], "kind": "paraphrase"}
+{"query": "ground turkey family pack", "ingredient_id": "turkey_ground", "relevant_skus": ["NONAME-TURKEY-GROUND-1", "PC-TURKEY-GROUND-2", "MAPLEG-TURKEY-GROUND-3"], "kind": "paraphrase"}
+{"query": "ground beef family pack", "ingredient_id": "ground_beef", "relevant_skus": ["NONAME-GROUND-BEEF-1", "PC-GROUND-BEEF-2", "MAPLEG-GROUND-BEEF-3"], "kind": "paraphrase"}
+{"query": "stewing beef family pack", "ingredient_id": "stewing_beef", "relevant_skus": ["NONAME-STEWING-BEEF-1", "PC-STEWING-BEEF-2", "MAPLEG-STEWING-BEEF-3"], "kind": "paraphrase"}
+{"query": "beef sirloin family pack", "ingredient_id": "sirloin", "relevant_skus": ["NONAME-SIRLOIN-1", "PC-SIRLOIN-2", "MAPLEG-SIRLOIN-3"], "kind": "paraphrase"}
+{"query": "pork chops family pack", "ingredient_id": "pork_chop", "relevant_skus": ["NONAME-PORK-CHOP-1", "PC-PORK-CHOP-2", "MAPLEG-PORK-CHOP-3"], "kind": "paraphrase"}
+{"query": "bacon family pack", "ingredient_id": "bacon", "relevant_skus": ["NONAME-BACON-1", "PC-BACON-2", "MAPLEG-BACON-3"], "kind": "paraphrase"}
+{"query": "ground pork family pack", "ingredient_id": "ground_pork", "relevant_skus": ["NONAME-GROUND-PORK-1", "PC-GROUND-PORK-2", "MAPLEG-GROUND-PORK-3"], "kind": "paraphrase"}
+{"query": "italian pork sausage family pack", "ingredient_id": "italian_sausage", "relevant_skus": ["NONAME-ITALIAN-SAUSAGE-1", "PC-ITALIAN-SAUSAGE-2", "MAPLEG-ITALIAN-SAUSAGE-3"], "kind": "paraphrase"}
+{"query": "chicken nuggets family pack", "ingredient_id": "chicken_nuggets", "relevant_skus": ["NONAME-CHICKEN-NUGGETS-1", "PC-CHICKEN-NUGGETS-2", "NORTHE-CHICKEN-NUGGETS-3"], "kind": "paraphrase"}
+{"query": "chicken noodle soup family pack", "ingredient_id": "chicken_soup", "relevant_skus": ["NONAME-CHICKEN-SOUP-1", "PC-CHICKEN-SOUP-2", "CASA-CHICKEN-SOUP-3"], "kind": "paraphrase"}
+{"query": "atlantic salmon family pack", "ingredient_id": "salmon", "relevant_skus": ["NONAME-SALMON-1", "PC-SALMON-2", "HARBOU-SALMON-3"], "kind": "paraphrase"}
+{"query": "cod fillets family pack", "ingredient_id": "cod", "relevant_skus": ["NONAME-COD-1", "PC-COD-2", "HARBOU-COD-3"], "kind": "paraphrase"}
+{"query": "shrimp family pack", "ingredient_id": "shrimp", "relevant_skus": ["NONAME-SHRIMP-1", "PC-SHRIMP-2", "HARBOU-SHRIMP-3"], "kind": "paraphrase"}
