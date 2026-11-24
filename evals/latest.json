@@ -1,0 +1,150 @@
+{
+  "matching": {
+    "bm25": {
+      "hit_at_5": 0.87,
+      "precision_at_5": 0.514,
+      "n": 200
+    },
+    "embed": {
+      "hit_at_5": 0.995,
+      "precision_at_5": 0.593,
+      "n": 200
+    },
+    "hybrid": {
+      "hit_at_5": 1.0,
+      "precision_at_5": 0.597,
+      "n": 200
+    },
+    "by_kind": {
+      "synonym": {
+        "bm25": 0.2,
+        "embed": 0.5933,
+        "hybrid": 0.5933
+      },
+      "typo": {
+        "bm25": 0.08,
+        "embed": 0.6,
+        "hybrid": 0.6
+      },
+      "paraphrase": {
+        "bm25": 0.6,
+        "embed": 0.5826,
+        "hybrid": 0.5942
+      },
+      "clean": {
+        "bm25": 0.6,
+        "embed": 0.6,
+        "hybrid": 0.6
+      }
+    },
+    "n": 200
+  },
+  "substitution": {
+    "n": 1598,
+    "popularity_hit_at_1": 0.47,
+    "popularity_hit_at_5": 0.8242,
+    "item2vec_hit_at_1": 0.7322,
+    "item2vec_hit_at_5": 0.7322,
+    "ranker_hit_at_1": 1.0,
+    "ranker_hit_at_5": 1.0,
+    "ranker_lift_vs_popularity_pct": 112.8,
+    "held_out_ingredient_anchors_only": true,
+    "note": "Candidates are other SKUs in the same aisle. A hit is a SKU from the same substitute group."
+  },
+  "constraints": {
+    "n": 9,
+    "budget_violations": 0,
+    "diet_violations": 0,
+    "carts_breaking_a_constraint_pct": 0.0,
+    "rows": [
+      {
+        "query": "high-protein dinners for 2 this week, under $60, no pork.",
+        "total": 59.63,
+        "budget": 60.0,
+        "kept": 4,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "vegetarian dinners for 2, 4 meals, under $45",
+        "total": 45.0,
+        "budget": 45.0,
+        "kept": 4,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "vegan dinners for 2 this week under $50",
+        "total": 49.89,
+        "budget": 50.0,
+        "kept": 5,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "gluten-free high-protein dinners for 2, 4 meals, under $55, no pork",
+        "total": 54.66,
+        "budget": 55.0,
+        "kept": 4,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "dinners for 4 this week under $100, no beef, no pork",
+        "total": 99.93,
+        "budget": 100.0,
+        "kept": 5,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "high protein meal for 2 under $25 no pork",
+        "total": 22.29,
+        "budget": 25.0,
+        "kept": 1,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "nut-free dairy-free dinners for 2, 3 meals, under $40",
+        "total": 39.57,
+        "budget": 40.0,
+        "kept": 3,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "shellfish-free high-protein dinners for 2 this week under $70",
+        "total": 69.94,
+        "budget": 70.0,
+        "kept": 5,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      },
+      {
+        "query": "soy-free dinners for 2, 4 meals, under $55, no pork",
+        "total": 54.95,
+        "budget": 55.0,
+        "kept": 4,
+        "within_budget": true,
+        "diet_ok": true,
+        "substitutions": 1
+      }
+    ]
+  },
+  "latency": {
+    "n": 15,
+    "p50_ms": 87.5,
+    "p95_ms": 94.36,
+    "planner": "heuristic",
+    "estimated_cost_usd": 0.0
+  }
+}
