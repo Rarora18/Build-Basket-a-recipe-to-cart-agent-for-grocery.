@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Basket</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,680&family=Outfit:wght@380;520;640&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="mark" aria-hidden="true">
+      <svg viewBox="0 0 48 48" width="42" height="42">
+        <path d="M8 18h32l-3 18a6 6 0 0 1-6 5H17a6 6 0 0 1-6-5L8 18z" fill="none" stroke="currentColor" stroke-width="2.4"/>
+        <path d="M16 18c0-6 4-10 8-10s8 4 8 10" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <p class="kicker">Recipe to cart</p>
+      <h1>Basket</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="composer">
+      <label for="q">What are you cooking?</label>
+      <textarea id="q" rows="3">high-protein dinners for 2 this week, under $60, no pork.</textarea>
+      <div class="examples" id="examples">
+        <button type="button">vegan dinners for 2 this week under $50</button>
+        <button type="button">gluten-free high-protein dinners for 2, 4 meals, under $55, no pork</button>
+        <button type="button">nut-free dairy-free dinners for 2, 3 meals, under $40</button>
+      </div>
+      <button type="button" class="go" id="go">Build the cart</button>
+    </section>
+    <section id="out" class="out" aria-live="polite"></section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>
